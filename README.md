@@ -2,11 +2,7 @@
 
 ## I'm a Friend, Developer, and Estudent!!
 
-- 🔭 I'm creating my web site!
-- 🌱 I’m currently learning React 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn everything about DevOps
-- ⚡ Fun fact: I love to draw and play guitar
+LMAD graduate from the Autonomous University of Nuevo Leon with over two years of professional experience specializing in backend development with JavaScript. Committed to delivering high-quality code, I emphasize clean coding practices, design patterns, and architectural principles to create efficient and scalable solutions.
 
 ### Languages and Tools:
 
