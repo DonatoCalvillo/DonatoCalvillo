@@ -22,7 +22,7 @@ const donatoCalvillo = {
 }
 ```
 
-[![Linkedin: DonatoCalvillo](https://img.shields.io/badge/-AlbertHernandez-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](https://www.linkedin.com/in/edgar-donato-calvillo-lumbreras-533b99202/)
-[![GitHub DonatoCalvillo](https://img.shields.io/github/followers/AlbertHernandez?label=follow&style=social)](https://github.com/DonatoCalvillo)
-[![Gmail DonatoCalvillo](https://img.shields.io/badge/Gmail-alberthernandezdez%40gmail.com-success)](mailto:donato.calvillo@dodoitstudio.com)
-[![Youtube DonatoCalvillo](https://img.shields.io/badge/Youtube-Albert%20Hernandez-red)](https://www.youtube.com/channel/UCAkj7PpIxxGS_8mtzfhmGMA)
+[![Linkedin: DonatoCalvillo](https://img.shields.io/badge/-DonatoCalvillo-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albert-hernandez-pellicer/)](https://www.linkedin.com/in/edgar-donato-calvillo-lumbreras-533b99202/)
+[![GitHub DonatoCalvillo](https://img.shields.io/github/followers/DonatoCalvillo?label=follow&style=social)](https://github.com/DonatoCalvillo)
+[![Gmail DonatoCalvillo](https://img.shields.io/badge/Gmail-DonatoCalvillo%40gmail.com-success)](mailto:donato.calvillo@dodoitstudio.com)
+[![Youtube DonatoCalvillo](https://img.shields.io/badge/Youtube-DonatoCalvillo-red)](https://www.youtube.com/channel/UCAkj7PpIxxGS_8mtzfhmGMA)
